@@ -1,2 +1,4 @@
 ID,Name,Price,Date,Time,Income Type
-1,january salary,100000.0,2026-01-01,00:00:00,salary
+1,january salary+bonus,110000.0,2026-01-01,18:00:00,salary
+2,old phone sold,35000.0,2026-05-25,17:32:00,profit
+3,groceries may,11378.0,2026-05-25,16:20:00,expense

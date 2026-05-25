@@ -43,6 +43,20 @@ cd expense-tracker
 python main.py
 ```
 
+### Flask Web App
+   
+   1. Install dependencies:
+```bash
+   pip install flask
+```
+   
+   2. Run the app:
+```bash
+   python app.py
+```
+   
+   3. Open http://localhost:5000 in your browser
+
 ### Usage
 
 1. **Add Transaction**: Enter type (salary/expense/profit), name, price, date, and time
